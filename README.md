@@ -1,4 +1,6 @@
 
 testing!!!
 
-EOF
+TEST2
+
+EXIT(opt)
